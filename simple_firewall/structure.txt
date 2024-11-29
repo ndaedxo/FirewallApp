@@ -1,0 +1,13 @@
+simple_firewall/
+│
+├── firewall_gui.py               # Main script for running the firewall and GUI
+├── README.md                     # Project description and instructions
+├── requirements.txt              # Python dependencies for the project
+├── firewall/                      # Folder for firewall logic and packet filtering
+│   ├── __init__.py               # Initialize the firewall module
+│   ├── packet_filter.py          # Contains the packet filtering logic (using Scapy)
+│   └── firewall_utils.py         # Utility functions for the firewall (e.g., blocking IPs/ports)
+├── assets/                        # Folder for images, icons, etc. (optional for future UI enhancement)
+│   └── firewall_icon.png         # Example icon for the firewall GUI (optional)
+└── logs/                          # Folder for firewall log files (optional for logging blocked packets)
+    └── firewall.log              # Example log file where blocked packets can be stored
