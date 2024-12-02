@@ -87,6 +87,13 @@ Blocked packet on port 80 -> 443
 - Improve error handling for invalid IPs or ports.
 - Allow saving and loading of blocked IPs/ports.
 
+## 👤 Author
+
+Ndaedzo Austin Mukhuba
+- GitHub: [@ndaedzo](https://github.com/ndaedxo)
+- LinkedIn: [Ndaedzo Austin Mukhuba](https://linkedin.com/in/ndaedzo-mukhuba-71759033b)
+- Email: [ndaemukhuba](ndaemukhuba@gmail.com)
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
